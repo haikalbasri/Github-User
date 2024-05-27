@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Github Submmison</string>
+
+    <string name="user">User</string>
+    <string name="searchbar_hint">Cari User..</string>
+    <string name="cari_user">Cari User</string>
+
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="_0">0</string>
+
+    <string name="favorite">Favorite User</string>
+    <string name="favorite_add">Added to Favorite</string>
+    <string name="favorite_remove">Favorite Removed</string>
+
+    <string name="menu_1">Favorit</string>
+    <string name="menu_2">Setting</string>
+
+    <string name="dark_mode">Dark Mode</string>
+</resources>
